@@ -1,0 +1,75 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterPartner
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="pagetitle">
+    <h1>Partners</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="MasterPartner">Partner Manage</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="MasterPartnerName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input autofocus asp-for="MasterPartnerName" class="form-control" />
+                                    <span asp-validation-for="MasterPartnerName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class=" row mb-3 col-md-6">
+                                <label asp-for="MasterPartnerWebsiteUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterPartnerWebsiteUrl" class="form-control" />
+                                    <span asp-validation-for="MasterPartnerWebsiteUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class=" row mb-3 col-md-6">
+                                <label asp-for="File" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input type="file" asp-for="File" value="ascascasc" class="form-control" />@*required*@
+                                    <span asp-validation-for="File" class="text-danger"></span>
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="form-group " style="direction:rtl;">
+                            <input type="submit" value="Create" class="btn btn-primary " />
+
+                            <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+

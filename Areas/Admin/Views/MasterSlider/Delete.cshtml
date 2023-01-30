@@ -1,0 +1,92 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterSlider
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="pagetitle ">
+    <h1>Data Tables</h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterSlider">Manage Slider</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+    <div>
+        <div class="card flex-row">
+            <img class="card-img-left example-card-img-responsive border-r" src="~/Sider_image/@Model.MasterSliderImageUrl" width="500" height="500" />
+
+            <dl class="row" style="padding:20px">
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.MasterSliderTitle)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterSliderTitle)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.MasterSliderBreef)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterSliderBreef)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.MasterSliderDesc)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterSliderDesc)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.IsActive)
+                </dt>
+                @if (Model.IsActive == true)
+                {
+
+                    <dd class="col-sm-9">
+                        Active
+                    </dd>
+                }
+                else if (Model.IsActive == false)
+                {
+
+                    <dd class="col-sm-9 ">
+                        Not Active
+                    </dd>
+                }
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.CreateId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateId)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.EditId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditId)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateDate)
+                </dd>
+                <dt class="col-sm-3 text-danger">
+                    @Html.DisplayNameFor(model => model.EditDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditDate)
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="MasterSliderId" />
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+</form>
+</div>

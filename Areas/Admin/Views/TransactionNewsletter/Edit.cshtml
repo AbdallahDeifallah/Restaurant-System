@@ -1,0 +1,79 @@
+﻿@model Restaurant.Models.TransactionNewsletter
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="pagetitle">
+    <h1>Transaction Newsletter</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransactionNewsletter">Manage TransactionNewsletter</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+<section class="section">
+    <div class="row col-6">
+
+
+        <div class="card ">
+            <div class="card-body">
+                <br />
+                <form asp-action="Edit" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="row " style="padding:20px">
+                        <div class="form-group d-none">
+                            <label asp-for="TransactionNewsletterId" class="control-label"></label>
+                            <input asp-for="TransactionNewsletterId" class="form-control" />
+                            <span asp-validation-for="TransactionNewsletterId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group d-none">
+                            <label asp-for="CreateId" class="control-label"></label>
+                            <input asp-for="CreateId" class="form-control" />
+                            <span asp-validation-for="CreateId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group d-none">
+                            <label asp-for="CreateDate" class="control-label"></label>
+                            <input asp-for="CreateDate" class="form-control" />
+                            <span asp-validation-for="CreateDate" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group d-none">
+                            <label asp-for="IsActive" class="control-label"></label>
+                            <input asp-for="IsActive" class="form-control" />
+                            <span asp-validation-for="IsActive" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3 col-md-12">
+                            <label asp-for="TransactionNewsletterEmail" class="col-3 col-form-label bold"></label>
+                            <div class="col-9">
+                                <input autofocus asp-for="TransactionNewsletterEmail" class="form-control" />
+                                <span asp-validation-for="TransactionNewsletterEmail" class="text-danger"></span>
+                            </div>
+                        </div>
+
+
+
+
+                    </div>
+                    <br />
+                    <div class="form-group " style="direction:rtl;">
+                        <input type="submit" value="Save" class="btn btn-primary " />
+
+                        <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+

@@ -1,0 +1,42 @@
+﻿@model Restaurant.Models.MasterCategoryMenu
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="pagetitle ">
+    <h1>
+        Category
+        Details
+    </h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterCategoryMenu">Manage Category</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+    <div>
+        <div class="card">
+
+            <dl class="row" style="padding:20px">
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.MasterCategoryMenuName)
+                </dt>
+                <dd class="col-sm-3">
+                    @Html.DisplayFor(model => model.MasterCategoryMenuName)
+                </dd>
+              
+               
+            </dl>
+        </div>
+    </div>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+    |
+    <a asp-action="Edit" asp-route-id="@Model.MasterCategoryMenuId" class="btn btn-primary">Edit</a>
+</div>
+

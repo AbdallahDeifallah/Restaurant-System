@@ -1,0 +1,81 @@
+﻿@model Restaurant.Models.TransactionBookTable
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="pagetitle">
+    <h1>Transaction BookTable</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransactionBookTable">Manage TransactionBookTable</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="TransactionBookTableFullName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input autofocus asp-for="TransactionBookTableFullName" class="form-control" />
+                                    <span asp-validation-for="TransactionBookTableFullName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="TransactionBookTableEmail" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransactionBookTableEmail" class="form-control" />
+                                    <span asp-validation-for="TransactionBookTableEmail" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="TransactionBookTableMobileNumber" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransactionBookTableMobileNumber" class="form-control" />
+                                    <span asp-validation-for="TransactionBookTableMobileNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="TransactionBookTableDate" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransactionBookTableDate" type="datetime-local" class="form-control" />
+                                    <span asp-validation-for="TransactionBookTableDate" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="form-group " style="direction:rtl;">
+                            <input type="submit" value="Create" class="btn btn-primary " />
+
+                            <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+

@@ -1,0 +1,53 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVRegister
+@{
+    ViewData["Title"] = "EditUser";
+}
+
+
+<div class="pagetitle ">
+    <h1>Accounts</h1>
+    <hr />
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterServices">Account Manage </a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+    <div>
+        <div class="card flex-row">
+
+            <div class="row m_input">
+                <div class="col-md-6">
+                    <form asp-action="Edit" enctype="multipart/form-data">
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row " style="padding:20px">
+                            <div class="form-group d-none">
+                                <label asp-for="PassWord" class="control-label"></label>
+                                <input asp-for="PassWord" class="form-control" />
+                                <span asp-validation-for="PassWord" class="text-danger"></span>
+                            </div>
+                            <div class="form-group d-none">
+                                <label asp-for="Email" class="control-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="submit" value="Save" class="btn btn-primary" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+</div>
+

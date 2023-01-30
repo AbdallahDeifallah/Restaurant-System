@@ -1,0 +1,51 @@
+﻿@model Restaurant.Models.MasterSocialMedia
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="pagetitle ">
+    <h1>
+        SocialMedia Details
+    </h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterSocialMedia">Manage SocialMedia</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body row">
+
+
+
+    <div class="card col-6">
+        <div class="profile-card pt-4 d-flex flex-column align-items-center">
+
+
+                <div class="profile-card pt-4 d-flex flex-column align-items-center">
+
+                    <img src="~/SocialMedia_img/@Model.MasterSocialMediaImageUrl" width="200" height="200" alt="Profile" class="rounded-circle">
+
+                    <h4>
+                        <b style="padding : 5px;"><a href="@Html.DisplayFor(model => model.MasterSocialMediaUrl)">@Html.DisplayFor(model => model.MasterSocialMediaUrl)</a></b>
+                    </h4>
+
+
+                </div>
+
+
+
+        </div>
+    </div>
+
+
+    </div>
+
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+    |
+    <a asp-action="Edit" asp-route-id="@Model.MasterSocialMediaId" class="btn btn-primary">Edit</a>
+</div>

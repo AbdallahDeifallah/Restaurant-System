@@ -1,0 +1,67 @@
+﻿@model Restaurant.Models.MasterWorkingHours
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="pagetitle">
+    <h1>MasterWorkingHours</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="MasterMasterWorkingHours">WorkingHours Manage </a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="MasterWorkingHoursName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterWorkingHoursName" class="form-control" />
+                                    <span asp-validation-for="MasterWorkingHoursName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="row mb-3 col-md-6">
+                                <label asp-for="MasterWorkingHoursTimeFormTo" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterWorkingHoursTimeFormTo" class="form-control" />
+                                    <span asp-validation-for="MasterWorkingHoursTimeFormTo" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+
+                        <div class="form-group " style="direction:rtl;">
+                            <input type="submit" value="Create" class="btn btn-primary " />
+
+                            <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+

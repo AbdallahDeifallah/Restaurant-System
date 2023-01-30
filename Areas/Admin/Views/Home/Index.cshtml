@@ -1,0 +1,75 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVHome
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+<h1>Home</h1>
+<hr />
+ 
+<div class="row">
+
+
+
+
+
+    <div class="alert alert-primary alert-dismissible col-3" role="alert">
+        <i class="bi bi-star me-1"></i>
+        <a asp-controller="MasterItemMenu"  >
+            Items ( @Model.Items )
+        </a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+    <div class="alert alert-success alert-dismissible col-3" role="alert">
+        <i class="bi bi-check-circle me-1"></i>
+        <a asp-controller="MasterServices">
+            Services ( @Model.Services )
+        </a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+    <div class="alert alert-secondary alert-dismissible  col-3"  role="alert">
+        <i class="bi bi-collection me-1"></i>
+        <a asp-controller="MasterSlider">
+            Sliders ( @Model.Sliders )
+        </a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+    <div class="alert alert-success alert-dismissible col-3" role="alert">
+        <i class="bi bi-exclamation-circle-fill me-1"></i>
+        <a asp-controller="TransactionBookTable">
+            BookTables ( @Model.bookTables )
+        </a>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+    <div class="alert alert-danger alert-dismissible col-3" role="alert">
+        <i class="bi bi-exclamation-octagon me-1"></i>
+        <a asp-controller="TransactionContactUs">
+            ContactUs ( @Model.ContactUs )
+        </a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+
+    <div class="alert alert-info alert-dismissible col-3" role="alert">
+        <i class="bi bi-info-circle me-1"></i>
+        <a asp-controller="MasterPartner">
+            Partners ( @Model.Partners )
+        </a>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+
+
+
+</div>
+

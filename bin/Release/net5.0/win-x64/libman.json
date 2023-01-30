@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jQuery-Validation-Engine@2.6.4",
+      "destination": "wwwroot/lib/jQuery-Validation-Engine/"
+    },
+    {
+      "library": "jquery-validate@1.19.4",
+      "destination": "wwwroot/lib/jquery-validate/"
+    },
+    {
+      "library": "jquery.is.js@0.2.1",
+      "destination": "wwwroot/lib/jquery.is.js/"
+    }
+  ]
+}

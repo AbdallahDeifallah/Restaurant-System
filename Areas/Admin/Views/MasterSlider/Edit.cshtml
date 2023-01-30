@@ -1,0 +1,134 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterSlider
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="pagetitle ">
+    <h1>Sliders</h1>
+    <hr />
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterSlider">Manage Slider</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </div>
+</div>
+<section>
+    <div class="row">
+
+
+
+        <div class="col-lg-6">
+            <div class="card">
+         
+                <div class="card-body">
+
+
+                    <form asp-action="Edit" enctype="multipart/form-data">
+
+                        <div class="col-12">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="row " style="padding:20px">
+                                <div class="form-group d-none">
+                                    <label asp-for="MasterSliderId" class="control-label"></label>
+                                    <input asp-for="MasterSliderId" class="form-control" />
+                                    <span asp-validation-for="MasterSliderId" class="text-danger"></span>
+                                </div>
+                                <div class="form-group d-none">
+                                    <label asp-for="CreateId" class="control-label"></label>
+                                    <input asp-for="CreateId" class="form-control" />
+                                    <span asp-validation-for="CreateId" class="text-danger"></span>
+                                </div>
+                                <div class="form-group d-none">
+                                    <label asp-for="CreateDate" class="control-label"></label>
+                                    <input asp-for="CreateDate" class="form-control" />
+                                    <span asp-validation-for="CreateDate" class="text-danger"></span>
+                                </div>
+
+                                <div class="row  col-md-12">
+                                    <label asp-for="MasterSliderTitle" class="col-sm-3 col-form-label bold"></label>
+                                    <div class="col-sm-9">
+                                        <input autofocus asp-for="MasterSliderTitle" class="form-control" />
+                                        <span asp-validation-for="MasterSliderTitle" class="text-danger"></span>
+                                    </div>
+                                </div>
+
+                                <div class="row  col-md-12">
+                                    <label asp-for="MasterSliderBreef" class="col-sm-3 col-form-label bold"></label>
+                                    <div class="col-sm-9">
+
+                                        <input asp-for="MasterSliderBreef" class="form-control" />
+                                        <span asp-validation-for="MasterSliderBreef" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row  col-md-12">
+                                    <label asp-for="MasterSliderDesc" class="col-sm-3 col-form-label bold"></label>
+                                    <div class="col-sm-9">
+
+                                        <input asp-for="MasterSliderDesc" class="form-control" />
+                                        <span asp-validation-for="MasterSliderDesc" class="text-danger"></span>
+                                    </div>
+
+                                </div>
+                                <div class="row  col-md-12">
+                                    <label asp-for="MasterSliderImageUrl" class="col-sm-3 col-form-label bold"></label>
+                                    <div class="col-sm-9">
+
+                                        <input type="file" asp-for="File" class="form-control file_change" />
+                                        <span asp-validation-for="File" class="text-danger"></span>
+                                        <input type="hidden" asp-for="MasterSliderImageUrl" />
+                                    </div>
+
+                                </div>
+
+                                <div class="row  col-md-12 d-none">
+                                    <label asp-for="IsActive" class="col-sm-3 col-form-label bold"></label>
+                                    <div class="col-sm-9 m_auto">
+
+                                        <div class="form-check form-switch">
+
+
+                                            @if (@Model.IsActive == true)
+                                            {
+                                                <input class="form-check-input" asp-for="IsActive" type="checkbox" id="flexSwitchCheckChecked" checked>
+
+                                            }
+                                            else if (Model.IsActive == false)
+                                            {
+                                                <input class="form-check-input" asp-for="IsActive" type="checkbox" id="flexSwitchCheckDefault">
+
+                                            }
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="form-group " style="margin:10px; direction:rtl;">
+                            <input type="submit" value="Save" class="btn btn-primary " />
+
+                            <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card ">
+                <div class="card-body card_img">
+
+                    <img class="card-img-right example-card-img-responsive right_im im_change" src="~/Sider_image/@Model.MasterSliderImageUrl"  />
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+ 
+

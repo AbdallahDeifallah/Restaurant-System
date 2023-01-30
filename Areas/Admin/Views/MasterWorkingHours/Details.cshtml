@@ -1,0 +1,48 @@
+﻿@model Restaurant.Models.MasterWorkingHours
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="pagetitle ">
+    <h1>
+        WorkingHours Details
+    </h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterWorkingHours">Manage WorkingHours</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body row">
+
+
+
+    <div class="card col-6">
+
+
+    <div class="card col-6">
+        <dl class="row" style="padding:20px">
+            <dt class="col-sm-3 label">
+                @Html.DisplayNameFor(model => model.MasterWorkingHoursName)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.MasterWorkingHoursName)
+            </dd>
+            <dt class="col-sm-3 label">
+                @Html.DisplayNameFor(model => model.MasterWorkingHoursTimeFormTo)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.MasterWorkingHoursTimeFormTo)
+            </dd>
+        </dl>
+    </div>
+
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+    |
+    <a asp-action="Edit" asp-route-id="@Model.MasterWorkingHoursId" class="btn btn-primary">Edit</a>
+</div>

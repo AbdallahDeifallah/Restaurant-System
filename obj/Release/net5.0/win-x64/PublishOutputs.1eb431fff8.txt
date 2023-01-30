@@ -1,0 +1,1051 @@
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.exe
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\1031512_bullet_details_list_icon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\118938_dialog_error_icon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\1398919_close_cross_incorrect_invalid_x_icon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\20276-eye-disable.gif
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\2191542_correct_ok_okay_right_tick_icon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\css\style.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\apple-touch-icon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\card.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\favicon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\logo.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\messages-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\messages-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\messages-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\news-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\news-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\news-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\news-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\news-5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\not-found.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\product-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\product-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\product-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\product-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\product-5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\profile-img.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\slides-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\slides-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\img\slides-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\js\main.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\apexcharts\apexcharts.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\bootstrap-icons\bootstrap-icons.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\css\boxicons.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\fonts\boxicons.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\fonts\boxicons.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\fonts\boxicons.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\fonts\boxicons.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\boxicons\fonts\boxicons.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\chart.js\chart.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\echarts\echarts.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\php-email-form\validate.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\quill\quill.bubble.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\quill\quill.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\quill\quill.snow.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\remixicon\remixicon.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\simple-datatables\simple-datatables.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\simple-datatables\style.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Admin\assets\vendor\tinymce\tinymce.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\bootstrap.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\font\ytp-regular.html
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\icons.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\owl.video.play.html
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\plugins.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\responsive.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\css\style.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfont3295.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfont3295.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfont3295.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfont3295.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfont3295.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\fontawesome-webfontd41d.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\ionicons28b5.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\ionicons28b5.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\ionicons28b5.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\fonts\ionicons28b5.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\about-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\about.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\banner-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\banner-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\banner-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\book-a-table.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\breath.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\count.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\deal-bg-2.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\deal-bg.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\deal.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\offer.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\popular.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\banner\table.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-6.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-7.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-8.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-comment1.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-comment2.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-dec-img1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-dec-img2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\blog-details.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\sliderbar-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\sliderbar-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\blog\sliderbar-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\brand-logo\1.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\brand-logo\2.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\brand-logo\3.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\brand-logo\4.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\brand-logo\5.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\favicon.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\10.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\11.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\12.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\13.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\14.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\15.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\16.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\17.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\6.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\7.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\8.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\9.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l15.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l17.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l6.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l7.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l8.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\gallery\l9.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\logo\logo-black.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\logo\logo.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-5.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\menu-6.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\pro-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\pro-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\pro-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\product\pro-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\slider\12.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\slider\18.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\slider\slider-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\slider\slider-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\slider\video.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\team-1.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\team-2.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\team-3.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\team-4.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\tesi-1.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\img\team\tesi-2.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\ajax-mail.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\bootstrap.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\main.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\plugins.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\popper.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\vendor\jquery-v1.12.4.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\assets\js\vendor\modernizr-3.11.7.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image13-8.xlsx6192022 120326 PM.xlsx
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image2_5eae039ca386f-1588462492.jpg6192022 123018 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image51364.jpg6192022 114448 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image51364.jpg6192022 114458 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image51364.jpg6192022 114509 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image51364.jpg6192022 114529 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101531 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101538 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101628 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101632 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101641 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101746 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101800 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image6192022 101810 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imaged84584e64ab8d30cbcbcd19269bd98c7.jpg6192022 120122 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imageistockphoto-1198271727-170667a.jpg6192022 120146 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imageistockphoto-1198271727-170667a.jpg6192022 122712 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 114137 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 114539 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 114644 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 114842 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 122202 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 122210 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagestock-photo--micro-peacock-feather-hd-image-best-texture-background-colourful-indian-peacock-feather-1127238599.jpg6192022 122701 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagethumb-1920-82317.jpg6192022 114120 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagethumb-1920-82317.jpg6192022 120028 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagethumb-1920-82317.jpg6192022 122014 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Imagethumb-1920-82317.jpg6192022 122022 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\Item_Image٢٠١٨٠٢١٩_١٤٥٤٤٨.jpg6192022 120443 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220614 93030 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220614 93813 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220614 95130 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220615 70104 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220615 70159 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220615 70335 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220615 70357 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\asvasv\sliderImage20220615 70404 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\images\bg\1.html
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Image51364.jpg6212022 33811 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Image51364.jpg6212022 52812 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Image51364.jpg6242022 72529 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebanner-2.jpg6292022 83133 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebanner-2.jpg6292022 84642 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebanner-2.jpg6292022 84646 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebanner-2.jpg6292022 84734 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebreath.jpg6292022 84112 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebreath.jpg6292022 84131 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagebreath.jpg6292022 84221 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imaged84584e64ab8d30cbcbcd19269bd98c7.jpg6212022 52857 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imaged84584e64ab8d30cbcbcd19269bd98c7.jpg6242022 75747 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imageistockphoto-1198271727-170667a.jpg6192022 92950 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imageistockphoto-1198271727-170667a.jpg6212022 52802 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imageistockphoto-1198271727-170667a.jpg6242022 72514 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagemenu-1.jpg6262022 54905 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagemenu-4.jpg6272022 64148 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-1.jpg6252022 81036 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-1.jpg6252022 81050 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-1.jpg6252022 81351 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-2.jpg6252022 81143 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-2.jpg6262022 54930 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-3.jpg6252022 81209 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-4.jpg6252022 81320 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagepro-4.jpg6292022 95636 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagethumb-1920-82317.jpg6192022 92932 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Item_Image\Item_Imagethumb-1920-82317.jpg6212022 33804 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\additional-methods.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\additional-methods.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\jquery-validation-sri.json
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\jquery.validate.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\jquery.validate.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ar.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ar.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_az.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_az.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_bg.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_bg.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_bn_BD.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_bn_BD.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ca.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ca.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_cs.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_cs.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_da.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_da.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_de.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_de.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_el.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_el.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es_AR.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es_AR.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es_PE.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_es_PE.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_et.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_et.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_eu.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_eu.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fa.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fa.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fi.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fi.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_fr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ge.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ge.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_gl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_gl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_he.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_he.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hu.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hu.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hy_AM.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_hy_AM.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_id.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_id.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_is.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_is.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_it.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_it.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ja.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ja.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ka.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ka.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_kk.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_kk.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ko.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ko.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_lt.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_lt.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_lv.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_lv.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_mk.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_mk.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_my.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_my.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_nl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_nl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_no.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_no.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pt_BR.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pt_BR.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pt_PT.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_pt_PT.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ro.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ro.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ru.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ru.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sd.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sd.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_si.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_si.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sk.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sk.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sr_lat.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sr_lat.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sv.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_sv.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_th.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_th.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_tj.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_tj.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_tr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_tr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_uk.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_uk.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ur.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_ur.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_vi.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_vi.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_zh.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_zh.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_zh_TW.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\messages_zh_TW.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_de.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_de.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_es_CL.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_es_CL.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_fi.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_fi.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_it.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_it.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_nl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_nl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_pt.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery-validate\localization\methods_pt.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\contrib\other-validations.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\contrib\other-validations.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\jquery-1.8.2.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\jquery.validationEngine.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\jquery.validationEngine.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-cz.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-cz.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-da.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-da.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-de.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-de.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-en.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-en.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-es.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-es.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-et.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-et.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fa.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fa.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fi.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fi.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-fr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-hr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-hr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-hu.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-hu.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-it.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-it.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ja.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ja.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-nl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-nl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-no.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-no.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pl.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pl.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pt.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pt.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pt_BR.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-pt_BR.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ro.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ro.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ru.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-ru.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-se.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-se.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-tr.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-tr.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-vi.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-vi.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-zh_CN.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-zh_CN.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-zh_TW.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\languages\jquery.validationEngine-zh_TW.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\validationEngine.jquery.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jQuery-Validation-Engine\validationEngine.jquery.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery.is.js\jquery.is.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\lib\jquery.is.js\jquery.is.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\OfferImage6212022 35544 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_image18.jpg7132022 84608 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_image294709_circle_twitter_icon.png6262022 24004 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_image51364.jpg6212022 40026 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_image51364.jpg6242022 72614 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imageistockphoto-1198271727-170667a.jpg6212022 125138 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imageistockphoto-1198271727-170667a.jpg6212022 40019 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imageistockphoto-1198271727-170667a.jpg6212022 53039 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imageoffer.jpg6252022 90226 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imageoffer.jpg7132022 84918 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\Offer_imagethumb-1920-82317.jpg6212022 43059 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\sliderImage20220615 90640 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\sliderImage20220615 90857 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\sliderImage20220615 90915 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\sliderImage20220615 92725 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Offer_image\sliderImage20220615 94030 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\PartnerImage6182022 94111 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img1.png6252022 91727 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img2.png6252022 91737 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img3.png6252022 91747 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img4.png6252022 91757 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img5.png6252022 91807 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_img51364.jpg6212022 40339 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_imgd84584e64ab8d30cbcbcd19269bd98c7.jpg6212022 40346 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_imgd84584e64ab8d30cbcbcd19269bd98c7.jpg6212022 53338 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\Partner_imgistockphoto-1198271727-170667a.jpg6212022 43222 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220615 101217 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220615 101429 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220615 105946 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220615 110052 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220615 110654 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Partner_img\sliderImage20220616 62721 PM.jfif
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\pen.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80614 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80630 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80705 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80714 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80723 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80820 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80832 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80941 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 80950 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 81014 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 81021 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 82513 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage20220616 85104 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage6182022 61554 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\ServicesImage6192022 63031 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\Services_image294709_circle_twitter_icon.png6252022 123920 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\Services_image294709_circle_twitter_icon.png6252022 123939 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\Services_image317747_creative_designers_dribbble_icon.png6252022 123906 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\Services_image51364.jpg6212022 53459 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 73427 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 73541 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 73650 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 73721 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 74209 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 74500 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 74648 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 74842 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75035 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75218 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75225 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75230 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75239 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75253 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75511 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75531 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75534 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75545 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Services_image\sliderImage20220616 75703 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imagecard.jpg6292022 11128 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imageistockphoto-1198271727-170667a.jpg6252022 73749 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imagemessages-3.jpg6292022 10331 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imageslider-1.jpg6252022 71316 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imageslider-2.jpg7132022 123038 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\Sider_image\Sider_imagevideo.jpg6252022 71414 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 111405 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 111601 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 111921 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 112330 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 112425 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 112437 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 112640 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMediaimg6182022 92526 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img107175_circle_facebook_icon.png6252022 115326 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img1298747_instagram_brand_logo_social media_icon.png6252022 115429 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img2142569_circle_colored_gradient_instagram_media_icon.png6252022 120619 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img287739_facebook_icon.png6252022 121442 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img294709_circle_twitter_icon.png6252022 115358 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img317747_creative_designers_dribbble_icon.png6252022 115512 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_img3225192_app_googleplus_logo_media_popular_icon.png6252022 115452 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_imgd84584e64ab8d30cbcbcd19269bd98c7.jpg6212022 45133 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_imgistockphoto-1198271727-170667a.jpg6212022 45144 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\SocialMedia_img\SocialMedia_imgthumb-1920-82317.jpg6212022 54322 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_img112b3857-6671-4b35-859f-29a4ea1e88e4713202211245PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_img511d2bbb-cd88-41b4-b60b-70359a4a1945713202211145PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_img51364.jpg6242022 125700 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_img72129959-e43e-442d-891f-8c5a8c04a539713202211033PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_img7b9d0541-a689-40cb-a250-a5a92e21bb757132022 10944 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imgabout.jpg6252022 75830 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imgd84584e64ab8d30cbcbcd19269bd98c7.jpg6242022 125700 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 10013 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 10025 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 10042 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 123905 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 123915 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 124012 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 124044 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 124213 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 124830 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 124843 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo-black.png6242022 83738 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 123905 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 123928 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 123947 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124044 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124133 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124138 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124534 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124821 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 124837 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6242022 125729 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png6252022 70212 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png7132022 10026 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png7132022 10220 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imglogo.png7132022 10315 PM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imgmenu-2.jpg6242022 124502 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imgthumb-1920-82317.jpg6242022 10042 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\System_img\System_imgthumb-1920-82317.jpg6242022 125700 PM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\true.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-6.jpg732022 110525 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-6.jpg732022 110930 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment1.png732022 104509 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment1.png732022 104529 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment1.png732022 105003 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment1.png742022 25726 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment1.png742022 25749 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-comment2.png732022 105618 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgblog-dec-img1.jpg732022 104957 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-1.jpg722022 100458 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-2.jpg722022 100101 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-2.jpg722022 100200 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 100435 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 94342 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 94357 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 94434 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 94523 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgmessages-3.jpg722022 94857 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgteam-2.jpg742022 55038 AM.jpg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\User_img\User_imgtesi-1.png742022 54828 AM.png
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\apexcharts\apexcharts.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\bootstrap-icons\bootstrap-icons.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\css\boxicons.min.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\fonts\boxicons.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\fonts\boxicons.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\fonts\boxicons.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\fonts\boxicons.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\boxicons\fonts\boxicons.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\chart.js\chart.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\echarts\echarts.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\php-email-form\validate.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\quill\quill.bubble.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\quill\quill.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\quill\quill.snow.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.eot
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.svg
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.ttf
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.woff
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\remixicon\remixicon.woff2
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\simple-datatables\simple-datatables.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\simple-datatables\style.css
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\wwwroot\vendor\tinymce\tinymce.min.js
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\libman.json
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.runtimeconfig.json
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.pdb
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CSharp.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualBasic.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualBasic.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Win32.Registry.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.AppContext.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Buffers.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Collections.Concurrent.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Collections.Specialized.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Collections.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.DataAnnotations.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ComponentModel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Configuration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Console.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Data.Common.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Data.DataSetExtensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Data.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Drawing.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Drawing.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Formats.Asn1.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Globalization.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Globalization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Compression.Brotli.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Compression.FileSystem.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.FileSystem.AccessControl.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Linq.Expressions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Linq.Parallel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Linq.Queryable.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Linq.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Memory.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Http.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Http.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.HttpListener.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Mail.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.NameResolution.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Ping.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Requests.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Security.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.ServicePoint.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.WebClient.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.WebProxy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.WebSockets.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Net.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Numerics.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ObjectModel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Private.DataContractSerialization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Private.Uri.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Private.Xml.Linq.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Private.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.DispatchProxy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Emit.Lightweight.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Emit.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.TypeExtensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Reflection.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Resources.Reader.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Resources.Writer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Handles.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Intrinsics.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Loader.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Numerics.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Serialization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Cng.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.OpenSsl.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Principal.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.SecureString.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ServiceModel.Web.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ServiceProcess.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.Encoding.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Channels.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Overlapped.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Tasks.Dataflow.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Tasks.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.Timer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Threading.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Transactions.Local.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Transactions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Web.HttpUtility.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Web.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Windows.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.Linq.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.Serialization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.XDocument.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\WindowsBase.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\mscorlib.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\netstandard.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Private.CoreLib.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cors.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Http.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Identity.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Localization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Razor.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Routing.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Session.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Hosting.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Http.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Localization.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.JSInterop.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Net.Http.Headers.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Diagnostics.EventLog.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IO.Pipelines.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-console-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-console-l1-2-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-file-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-file-l1-2-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-file-l2-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-string-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-core-util-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\clrcompression.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\clretwrc.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\clrjit.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\coreclr.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\createdump.exe
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\dbgshim.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\hostfxr.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\hostpolicy.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\mscordaccore.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\mscordaccore_amd64_amd64_5.0.1321.56516.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\mscordbi.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\mscorrc.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ucrtbase.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Humanizer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.Views.dll
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.Views.pdb
+C:\Users\ASUS\Desktop\Finalproject\FianlProjectAhmed\Menu\SystemRestaurant\Restaurant\obj\Release\net5.0\win-x64\PubTmp\Out\Restaurant.deps.json

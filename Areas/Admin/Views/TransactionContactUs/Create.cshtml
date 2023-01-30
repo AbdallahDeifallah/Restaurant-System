@@ -1,0 +1,80 @@
+﻿@model Restaurant.Models.TransactionContactUs
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="pagetitle">
+    <h1>Transaction ContactUs</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransactionContactUs">Manage TransactionContactUs</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+
+<section class="section">
+    <div class="row col-6">
+ 
+
+            <div class="card ">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+
+                            <div class="row mb-3 col-md-12">
+                                <label asp-for="TransactionContactUsFullName" class="col-3 col-form-label bold"></label>
+                                <div class="col-9">
+                                    <input autofocus asp-for="TransactionContactUsFullName" class="form-control" />
+                                    <span asp-validation-for="TransactionContactUsFullName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 col-md-12">
+                                <label asp-for="TransactionContactUsEmail" class="col-3 col-form-label bold"></label>
+                                <div class="col-9">
+                                    <input asp-for="TransactionContactUsEmail" class="form-control" />
+                                    <span asp-validation-for="TransactionContactUsEmail" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 col-md-12">
+                                <label asp-for="TransactionContactUsSubject" class="col-3 col-form-label bold"></label>
+                                <div class="col-9">
+                                    <input asp-for="TransactionContactUsSubject" class="form-control" />
+                                    <span asp-validation-for="TransactionContactUsSubject" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="row mb-3 col-md-12">
+                                <label asp-for="TransactionContactUsMessage" class="col-3 col-form-label bold"></label>
+                                <div class="col-9">
+                                    <textarea asp-for="TransactionContactUsMessage"  class="form-control" style="height: 100px"></textarea>
+                                    <span asp-validation-for="TransactionContactUsMessage" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <br/>
+                        <div class="form-group " style="direction:rtl;">
+                            <input type="submit" value="Create" class="btn btn-primary " />
+
+                            <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+ </section>
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+

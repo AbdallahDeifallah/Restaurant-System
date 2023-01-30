@@ -1,0 +1,146 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterItemMenu
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="pagetitle ">
+    <h1>Item Menu</h1>
+    <hr />
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterItemMenu">Manage ItemMemu</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+
+    <div class="card flex-row">
+
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div class="col-6">
+                <img class="card-img-right example-card-img-responsive right_im im_change" src="~/Item_Image/@Model.MasterItemMenuImageUrl" width="100%" height="100%" />
+            </div>
+            <div class="col-6">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row " style="padding:20px">
+                    <div class="form-group d-none">
+                        <label asp-for="MasterItemMenuId" class="control-label"></label>
+                        <input asp-for="MasterItemMenuId" class="form-control" />
+                        <span asp-validation-for="MasterItemMenuId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-none">
+                        <label asp-for="CreateId" class="control-label"></label>
+                        <input asp-for="CreateId" class="form-control" />
+                        <span asp-validation-for="CreateId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-none">
+                        <label asp-for="CreateDate" class="control-label"></label>
+                        <input asp-for="CreateDate" class="form-control" />
+                        <span asp-validation-for="CreateDate" class="text-danger"></span>
+                    </div>
+                    <div class="row  col-md-12">
+                        <label class="col-sm-3 col-form-label bold">Category</label>
+                        <div class="col-sm-9">
+                            <select autofocus asp-for="MasterCategoryMenuId"
+                                    asp-items="@(new SelectList(Model.Categorys,"MasterCategoryMenuId","MasterCategoryMenuName"))"
+                                    class="form-control">
+                            </select>
+                            <span asp-validation-for="MasterCategoryMenuId" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuTitle" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+                            <input asp-for="MasterItemMenuTitle" class="form-control" />
+                            <span asp-validation-for="MasterItemMenuTitle" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuBreef" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+
+                            <input asp-for="MasterItemMenuBreef" class="form-control" />
+                            <span asp-validation-for="MasterItemMenuBreef" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuPrice" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+
+                            <input asp-for="MasterItemMenuPrice" class="form-control" />
+                            <span asp-validation-for="MasterItemMenuPrice" class="text-danger"></span>
+                        </div>
+
+                    </div>
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuDesc" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+
+                            <input asp-for="MasterItemMenuDesc" class="form-control" />
+                            <span asp-validation-for="MasterItemMenuDesc" class="text-danger"></span>
+                        </div>
+
+                    </div>
+
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuDate" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+
+                            <input asp-for="MasterItemMenuDate" class="form-control" />
+                            <span asp-validation-for="MasterItemMenuDate" class="text-danger"></span>
+                        </div>
+
+                    </div>
+
+                    <div class="row  col-md-12">
+                        <label asp-for="MasterItemMenuImageUrl" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9">
+
+                            <input type="file" asp-for="File" class="form-control file_change" />
+                            <span asp-validation-for="File" class="text-danger"></span>
+                            <input type="hidden" asp-for="MasterItemMenuImageUrl" />
+                        </div>
+
+                    </div>
+
+                    <div class="row  col-md-12 d-none">
+                        <label asp-for="IsActive" class="col-sm-3 col-form-label bold"></label>
+                        <div class="col-sm-9 m_auto">
+
+                            <div class="form-check form-switch">
+
+
+                                @if (@Model.IsActive == true)
+                                {
+                                    <input class="form-check-input" asp-for="IsActive" type="checkbox" id="flexSwitchCheckChecked" checked>
+
+                                }
+                                else if (Model.IsActive == false)
+                                {
+                                    <input class="form-check-input" asp-for="IsActive" type="checkbox" id="flexSwitchCheckDefault">
+
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group " style="direction:rtl;">
+                    <input type="submit" value="Save" class="btn btn-primary " />
+
+                    <a asp-action="Index" class="btn btn-dark ">Back to List</a>
+                </div>
+
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+
+

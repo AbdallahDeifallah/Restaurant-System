@@ -1,0 +1,92 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterOffer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="pagetitle ">
+    <h1>
+        Offer Details
+    </h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterOffer">Manage Offer</a></li>
+            <li class="breadcrumb-item active">Details</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+ 
+        <div class="card flex-row">
+            <img class="card-img-left example-card-img-responsive border-r" src="~/Offer_image/@Model.MasterOfferImageUrl" width="500" height="500" />
+
+            <dl class="row" style="padding:20px">
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.MasterOfferTitle)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterOfferTitle)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.MasterOfferBreef)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterOfferBreef)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.MasterOfferDesc)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterOfferDesc)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.IsActive)
+                </dt>
+                @if (Model.IsActive == true)
+                {
+
+                    <dd class="col-sm-9">
+                        Active
+                    </dd>
+                }
+                else if (Model.IsActive == false)
+                {
+
+                    <dd class="col-sm-9 ">
+                        Not Active
+                    </dd>
+                }
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.CreateId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateId)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.EditId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditId)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateDate)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.EditDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditDate)
+                </dd>
+            </dl>
+        </div>
+ 
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">&laquo; Previous</a>
+    |
+    <a asp-action="Edit" asp-route-id="@Model.MasterOfferId" class="btn btn-primary">Edit</a>
+</div>

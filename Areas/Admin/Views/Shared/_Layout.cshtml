@@ -1,0 +1,449 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Basmoti Restaurant</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/Admin/assets/img/favicon.png" rel="icon">
+    <link href="~/Admin/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+
+    <!-- Vendor CSS Files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/quill/quill.snow.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/quill/quill.bubble.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/Admin/assets/vendor/simple-datatables/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <!-- Template Main CSS File -->
+    <link href="~/Admin/assets/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    * Template Name: NiceAdmin - v2.2.0
+    * Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+    <script>
+        $(function () {
+
+            var path_to_delete;
+
+            $(".deleteItem").click(function (e) {
+                path_to_delete = $(this).data('path');
+
+            });
+
+            $('#btnContinueDelete').click(function () {
+
+                window.location = path_to_delete;
+
+            });
+            $(".clk_img").click(function () {
+                var this_scr = $(this).attr("src");
+
+                $(".dis_image").slideDown(0);
+                $(".back_img").show(0);
+                $(".v_img").attr("src", this_scr);
+            });
+            $(".dis_image").click(function () {
+                $(".dis_image").slideUp(0);
+                $(".back_img").hide(0);
+
+            });
+            $(".file_change").change(function (event) {
+
+                var the_attr = URL.createObjectURL(event.target.files[0]);
+                $(".im_change").attr("src", the_attr);
+            });
+        });
+        //clk_img
+    </script>
+    <style>
+        .card_img {
+            min-height: 400px;
+        }
+
+            .card_img img {
+                width: 100%;
+                height: 100%;
+            }
+
+        .datatable tr {
+            transition: all .2s;
+        }
+
+        .datatable thead tr th {
+            color: #fff;
+            background: #536373;
+        }
+
+        .datatable tbody tr:nth-child(odd) {
+            background: #fbfbfb;
+        }
+
+        .datatable tbody tr:hover {
+            background: #ccc;
+        }
+
+        .label {
+            display: inline;
+            padding: 8px;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1;
+            color: #fff;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: baseline;
+            border-radius: 0.25em;
+            text-align: left;
+            color: rgba(1, 41, 112, 0.6);
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .td_option a {
+            margin: auto;
+        }
+
+        .fa-check-circle {
+            color: green;
+        }
+
+
+
+
+        .fa-edit {
+            color: cadetblue;
+        }
+
+        .fa-info-circle {
+            color: cornflowerblue;
+        }
+
+        .fa-times {
+            color: red;
+        }
+
+        .fa-lock-open {
+            color: black;
+        }
+
+        .fa-lock {
+            color: black;
+        }
+
+        .fa-edit:hover {
+            color: lightseagreen;
+            transform: scale(1.5) rotate(0deg);
+        }
+
+        .fa-info-circle:hover {
+            color: cornflowerblue;
+            transform: scale(1.5) rotate(0deg);
+        }
+
+        .fa-times:hover {
+            color: red;
+            transform: scale(2) rotate(0deg);
+        }
+
+
+        .r_dir {
+            direction: rtl;
+        }
+
+        .dis_image {
+            width: 800px;
+            height: 600px;
+            border: 2px solid #666;
+            position: absolute;
+            top: 65px;
+            margin-left: auto;
+            margin-right: auto;
+            left: 0px;
+            right: 0px;
+            display: none;
+            z-index: 20;
+        }
+
+        .border-r {
+            border-right: 3px solid #000;
+        }
+
+        .m_input input {
+            margin-top: 5px;
+        }
+
+        .m_auto {
+            margin: auto;
+        }
+
+        .right_im {
+            float: right;
+            position: absolute;
+            width: 50%;
+            right: 0px;
+        }
+
+        #main {
+            min-height: 600px;
+        }
+
+        a {
+            color: black;
+        }
+
+        .back_img {
+            background: #000;
+            opacity: 0.7;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            z-index: 10;
+            display: none;
+        }
+
+        .td_option a .fa-edit, .fa-info-circle, .fa-times, .fa-check-circle, .fa-eye-slash {
+            font-size: 22px;
+            transition: all .2s;
+        }
+
+        #main {
+            min-height: 750px;
+        }
+
+        .alert {
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="back_img"></div>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="header fixed-top d-flex align-items-center">
+
+        <div class="d-flex align-items-center justify-content-between">
+            <a asp-controller="Home" asp-action="Index" class="logo d-flex align-items-center">
+
+                                <span class="d-none d-lg-block">Basmoti Restaurant</span>
+            </a>
+            <i class="bi bi-list toggle-sidebar-btn"></i>
+        </div><!-- End Logo -->
+
+        <div class="search-bar">
+            <form class="search-form d-flex align-items-center" method="POST" action="#">
+                <input type="text" name="query" placeholder="Search" title="Enter search keyword">
+                <button type="submit" title="Search"><i class="bi bi-search"></i></button>
+            </form>
+        </div><!-- End Search Bar -->
+        <!-- End Icons Navigation -->
+
+        @*@await Component.InvokeAsync("MasterMenuComponent")*@
+
+    </header><!-- End Header -->
+    <!-- ======= Sidebar ======= -->
+    <aside id="sidebar" class="sidebar">
+
+        <ul class="sidebar-nav" id="sidebar-nav">
+
+            <li class="nav-item">
+                <a class="nav-link " href="~/Admin/Home">
+                    <i class="bi bi-grid"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li><!-- End Dashboard Nav -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-journal-text"></i><span> Header Manage</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a asp-controller="MasterMenu" asp-action="Index">
+                            @*href="~/Admin/MasterMenu"*@
+                            <i class="bi bi-circle"></i><span> Menu</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/MasterSlider/Index">
+                            <i class="bi bi-circle"></i><span> Slider</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </li><!-- End Forms Nav -->
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-layout-text-window-reverse"></i><span>Content Manage</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a href="~/Admin/MasterOffer/Index">
+                            <i class="bi bi-circle"></i><span>Offer Manager </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/MasterServices/Index">
+                            <i class="bi bi-circle"></i><span>Services Manager</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </li><!-- End Tables Nav -->
+
+            <li class="nav-item">
+
+                <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-menu-button-wide"></i><span>Items Manage</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a href="~/Admin/MasterCategoryMenu/Index">
+                            <i class="bi bi-circle"></i><span>CategoryMenu</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/MasterItemMenu/Index">
+                            <i class="bi bi-circle"></i><span>ItemsMenu</span>
+                        </a>
+                    </li>
+
+
+                </ul>
+            </li><!-- End Components Nav -->
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#icons-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-gem"></i><span>Transaction and Partner</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="icons-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a href="~/Admin/MasterPartner/Index">
+                            <i class="bi bi-circle"></i><span>MasterPartner</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/MasterSocialMedia/Index">
+                            <i class="bi bi-circle"></i><span>SocialMedia</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/TransactionContactUs/Index">
+                            <i class="bi bi-circle"></i><span>ContactUs</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/TransactionBookTable/Index">
+                            <i class="bi bi-circle"></i><span>BookTable</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/TransactionNewsletter/Index">
+                            <i class="bi bi-circle"></i><span>Newsletter</span>
+                        </a>
+                    </li>
+                </ul>
+            </li><!-- End Icons Nav -->
+
+
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#charts-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-bar-chart"></i><span>System and Work</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="charts-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a href="~/Admin/SystemSetting/Index">
+                            <i class="bi bi-circle"></i><span>Manage System</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/Accounts/Index">
+                            <i class="bi bi-circle"></i><span>Accounts</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Admin/MasterWorkingHours/Index">
+                            <i class="bi bi-circle"></i><span>Manage WorkingHours</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </li><!-- End Charts Nav -->
+
+
+
+
+        </ul>
+
+    </aside><!-- End Sidebar-->
+
+    <main id="main" class="main">
+
+
+        @RenderBody()
+        @RenderSection("Scripts", required: false);
+
+        <div class="dis_image">
+            <img width="100%" height="100%" class="v_img" />
+        </div>
+    </main>
+    <footer id="footer" class="footer">
+        <div class="copyright">
+            &copy; Copyright <strong><span>NiceAdmin</span>+</strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+            <!-- All the links in the footer should remain intact. -->
+            <!-- You can delete the links only if you purchased the pro version. -->
+            <!-- Licensing information: https://bootstrapmade.com/license/ -->
+            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
+            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+    </footer><!-- End Footer -->
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="~/Admin/assets/vendor/apexcharts/apexcharts.min.js"></script>
+    <script src="~/Admin/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Admin/assets/vendor/chart.js/chart.min.js"></script>
+    <script src="~/Admin/assets/vendor/echarts/echarts.min.js"></script>
+    <script src="~/Admin/assets/vendor/quill/quill.min.js"></script>
+    <script src="~/Admin/assets/vendor/simple-datatables/simple-datatables.js"></script>
+    <script src="~/Admin/assets/vendor/tinymce/tinymce.min.js"></script>
+    <script src="~/Admin/assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/Admin/assets/js/main.js"></script>
+
+    <script>if (window.self == window.top) { (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-55234356-4', 'auto'); ga('send', 'pageview'); }</script>
+</body>
+
+</html>

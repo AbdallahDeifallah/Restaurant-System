@@ -1,0 +1,82 @@
+﻿@model Restaurant.Areas.Admin.MVModels.MVMasterCategoryMenu
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="pagetitle ">
+    <h1>Delete Category</h1>
+    <div class="">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item active"><a asp-action="Index" asp-controller="MasterCategoryMenu">Manage Category</a></li>
+            <li class="breadcrumb-item active">Delete</li>
+        </ol>
+    </div>
+</div>
+<div class="card-body">
+    <div>
+        <div class="card flex-row">
+
+            <dl class="row" style="padding:20px">
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.MasterCategoryMenuName)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.MasterCategoryMenuName)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.IsActive)
+                </dt>
+                @if (Model.IsActive == true)
+                {
+
+                    <dd class="col-sm-9">
+                        Active
+                    </dd>
+                }
+                else if (Model.IsActive == false)
+                {
+
+                    <dd class="col-sm-9 ">
+                        Not Active
+                    </dd>
+                }
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.CreateId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateId)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.EditId)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditId)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CreateDate)
+                </dd>
+                <dt class="col-sm-3 label">
+                    @Html.DisplayNameFor(model => model.EditDate)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.EditDate)
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+<div>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="MasterCategoryMenuId" />
+        <a asp-action="Index" class="btn btn-secondary"> &laquo; Previous</a> |
+
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </form>
+
+</div>
+
